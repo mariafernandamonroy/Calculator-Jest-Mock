@@ -1,4 +1,4 @@
-import * as math from './Math.js';
+import * as math from './math.js';
 export const doAdd      = (a, b) => math.add(a, b);
 export const doSubtract = (a, b) => math.subtract(a, b);
 export const doMultiply = (a, b) => math.multiply(a, b);
